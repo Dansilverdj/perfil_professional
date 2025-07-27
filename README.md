@@ -8,6 +8,6 @@ Apasionado por la calidad, la automatización y el impacto del software en el ne
 ## 🛠️ Tech Stack
 - 🐍 Python · 🧪 Pytest · 🕸️ Selenium · 📡 Postman · 🗃️ SQL · 📊 SPSS · 🤖 IA
 
-![Working hard](https://giphy.com/gifs/matrix-the-cyberpunk-v7WM6sLcnGIc8)
+![Working hard](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlkcDB5bjY5MjFsZTczeTJoMGkyNnE3YjJ3Ynh3OTAzMmloODliaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif)
 
   
